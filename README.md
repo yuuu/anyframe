@@ -20,7 +20,7 @@ anyframe-init
 ```
 # download all files
 % cd /path/to/dir
-% git clone https://github.com/mollifier/anyframe
+% git clone https://github.com/yuuu/anyframe
 ```
 
 And add the following lines to your .zshrc:
@@ -36,7 +36,7 @@ anyframe-init
 If you use [Antigen](https://github.com/zsh-users/antigen), add the following line to your .zshrc:
 
 ```
-antigen bundle mollifier/anyframe
+antigen bundle yuuu/anyframe
 ```
 
 ### keybind
