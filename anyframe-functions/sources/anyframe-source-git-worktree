@@ -1,0 +1,6 @@
+git worktree list | awk '{print $1}'
+
+# Local Variables:
+# mode: Shell-Script
+# End:
+# vim: ft=zsh
